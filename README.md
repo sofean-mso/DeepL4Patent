@@ -5,3 +5,12 @@ Patent document classification as groundwork has been a challenging task with no
 
 
 ![arch_0000](https://user-images.githubusercontent.com/52244944/60329845-742e2680-9991-11e9-8d43-65311eb837a9.png)
+
+Currently the repository contains three examples:
+
+1. Multi-class Patent Classification with multichannel inputs: The Main IPC code is used as a label for the patent document
+
+2. Multi-label Patent Classification with multichannel inputs: The full IPC codes are used as a label for the patent document
+
+3. Multi-class Patent Classification with a single channel input
+
