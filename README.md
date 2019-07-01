@@ -12,5 +12,5 @@ Currently the repository contains three examples:
 
 2. [Multi-label Patent Classification with multichannel inputs](https://github.com/sofean-mso/DeepL4Patent/blob/master/Deep4Patent%20Pipeline%20for%20Multi-label%20Patent%20Classification.ipynb): The full IPC codes are used as a label for the patent document
 
-3. Multi-class Patent Classification with a single channel input
+3. [Multi-class Patent Classification with a single channel input](https://github.com/sofean-mso/DeepL4Patent/blob/master/single_input/Multi-classification%20with%20a%20single%20Input%20channel.ipynb)
 
