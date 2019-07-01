@@ -8,7 +8,7 @@ Patent document classification as groundwork has been a challenging task with no
 
 Currently the repository contains three examples:
 
-1. Multi-class Patent Classification with multichannel inputs: The Main IPC code is used as a label for the patent document
+1. Multi-class Patent Classification with multichannel inputs (https://github.com/sofean-mso/DeepL4Patent/blob/master/Deep4Patent%20Pipeline%20for%20Multi-class%20Patent%20Classification.ipynb): The Main IPC code is used as a label for the patent document
 
 2. Multi-label Patent Classification with multichannel inputs: The full IPC codes are used as a label for the patent document
 
