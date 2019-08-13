@@ -14,5 +14,5 @@ Currently the repository contains three examples:
 3. [Multi-class Patent Classification with a single channel input](https://github.com/sofean-mso/DeepL4Patent/blob/master/single_input/Multi-classification%20with%20a%20single%20Input%20channel.ipynb)
 
 
-Word/Phrase Embeddings:
+Word/Phrase Embeddings: 
 ![arch_0000](https://github.com/sofean-mso/DeepL4Patent/blob/master/phraseEmbbs.png)
