@@ -18,6 +18,6 @@ Currently the repository contains three examples:
 
 
 
-**References**
+**References**                                                                                                                         
 *Mustafa Sofean. Deep Learning based Pipeline with Multichannel Inputs for Patent Classification. 1st Workshop on Patent Text Mining and Semantic Technologies. PatentSemTech 2019*
 
