@@ -1,4 +1,4 @@
-# Deep Learning based Pipeline with Multichannel Inputs for Patent Classification
+# Deep Learning based Pipeline with Multichannel Inputs for Patent Classification (DeepL4Patent)
 
 In this work, we introduce a deep learning pipeline called DeepL4Patent for automatic patent classification with multichannel inputs.   A neural network model is trained with multichannel inputs namely embeddings of different segments of patent texts, and sparse linear input of different metadata. 
 
