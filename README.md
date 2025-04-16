@@ -19,5 +19,17 @@ Currently the repository contains three examples:
 
 
 **References**                                                                                                                         
-*Mustafa Sofean. Deep Learning based Pipeline with Multichannel Inputs for Patent Classification. 1st Workshop on Patent Text Mining and Semantic Technologies. PatentSemTech 2019*
+*Mustafa Sofean: Deep Learning based Pipeline with Multichannel Inputs for Patent Classification. 1st Workshop on Patent Text Mining and Semantic Technologies. PatentSemTech 2019*
+
+@article{SOFEAN2021102060,
+title = {Deep learning based pipeline with multichannel inputs for patent classification},
+journal = {World Patent Information},
+volume = {66},
+pages = {102060},
+year = {2021},
+issn = {0172-2190},
+doi = {https://doi.org/10.1016/j.wpi.2021.102060},
+url = {https://www.sciencedirect.com/science/article/pii/S0172219021000387},
+author = {Mustafa Sofean},
+}
 
